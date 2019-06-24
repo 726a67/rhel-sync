@@ -27,7 +27,6 @@ CONFIGURE_REPOS()
 	--disable='*' \
 	--enable=rhel-7-server-rpms \
 	--enable=rhel-7-server-supplementary-rpms \
-	--enable=rhel-7-server-rhv-4.2-manager-rpms \
 	--enable=rhel-7-server-rhv-4.3-manager-rpms \
 	--enable=rhel-7-server-rhv-4-manager-tools-rpms \
 	--enable=rhel-7-server-ansible-2-rpms \
