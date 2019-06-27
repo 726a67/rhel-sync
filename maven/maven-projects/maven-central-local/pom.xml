@@ -2785,6 +2785,23 @@
 		<artifactId>primefaces</artifactId>
 		<version>7.0</version>
 	</dependency>
+    	<dependency>
+      		<groupId>javax.servlet</groupId>
+      		<artifactId>javax.servlet-api</artifactId>
+      		<version>3.1.0</version>
+    	</dependency>
+    	<dependency>
+      		<groupId>com.sun.faces</groupId>
+      		<artifactId>jsf-api</artifactId>
+      		<version>2.2.15</version>
+      		<scope>compile</scope>
+    	</dependency>
+    	<dependency>
+      		<groupId>com.sun.faces</groupId>
+      		<artifactId>jsf-impl</artifactId>
+      		<version>2.2.15</version>
+      		<scope>compile</scope>
+    	</dependency>
   </dependencies>
   
   <build>
