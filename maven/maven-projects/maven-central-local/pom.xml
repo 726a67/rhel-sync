@@ -2802,6 +2802,11 @@
       		<version>2.2.15</version>
       		<scope>compile</scope>
     	</dependency>
+	<dependency>
+    		<groupId>org.tmatesoft.svnkit</groupId>
+    		<artifactId>svnkit</artifactId>
+    		<version>1.8.4</version>
+	</dependency>
   </dependencies>
   
   <build>
