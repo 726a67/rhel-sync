@@ -2807,6 +2807,11 @@
     		<artifactId>svnkit</artifactId>
     		<version>1.8.5</version>
 	</dependency>
+	<dependency>
+    		<groupId>org.eclipse.jetty</groupId>
+    		<artifactId>jetty-maven-plugin</artifactId>
+    		<version>9.4.11.v20180605</version>
+	</dependency>
   </dependencies>
   
   <build>
