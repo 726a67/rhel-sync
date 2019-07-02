@@ -2802,6 +2802,11 @@
     		<artifactId>jetty-maven-plugin</artifactId>
     		<version>9.4.19.v20190610</version>
 	</dependency>
+	<dependency>
+    		<groupId>org.tmatesoft.svnkit</groupId>
+    		<artifactId>svnkit</artifactId>
+    		<version>1.8.5</version>
+	</dependency>
   </dependencies>
   
   <build>
