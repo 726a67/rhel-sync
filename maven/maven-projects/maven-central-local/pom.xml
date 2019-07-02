@@ -71,11 +71,6 @@
 	</dependency>
 	<dependency>
 		<groupId>com.jcraft</groupId>
-		<artifactId>jsch.agentproxy.svnkit-trilead-ssh2</artifactId>
-		<version>0.0.7</version>
-	</dependency>
-	<dependency>
-		<groupId>com.jcraft</groupId>
 		<artifactId>jsch.agentproxy.sshagent</artifactId>
 		<version>0.0.7</version>
 	</dependency>
