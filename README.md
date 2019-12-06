@@ -1,1 +1,1 @@
-# airbridge
+# rhel-sync
