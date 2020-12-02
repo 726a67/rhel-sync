@@ -42,6 +42,7 @@ CONFIGURE_REPOS()
 	--enable=rhel-7-server-rhv-4.3-manager-rpms \
 	--enable=rhel-7-server-rhv-4-manager-tools-rpms \
 	--enable=rhel-7-server-ansible-2-rpms \
+	--enable=rhel-7-server-ansible-2.9-rpms \
 	--enable=jb-eap-7.2-for-rhel-7-server-rpms \
 	--enable=rhel-7-server-rhv-4-mgmt-agent-rpms \
 	--enable=rhel-7-server-rh-common-rpms \
